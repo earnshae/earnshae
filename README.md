@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @earnshae.
-- 👴 I have programmed in over professionally in 20 programming languages in my career.
+- 👴 I have professionally used over 20 programming languages in my career.
 - 👀 I’m currently playing with in Python, React, Node.js/Cordova/Ionic Apps.
 - 🌱 I’m currently learning Redis, Celery, and RabbitMQ.
 - 💭 I think I will play with go next.
